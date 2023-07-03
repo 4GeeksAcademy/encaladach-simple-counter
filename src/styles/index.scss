@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.BigCounter{
+    text-align: center;
+    background: black
+}
+.BigCounter div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background: black;
+    color: white
+}
